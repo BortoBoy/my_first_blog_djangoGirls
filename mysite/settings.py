@@ -25,7 +25,7 @@ SECRET_KEY = '&^67n0@$d7j2*rupb-g9#)j942!z8*t2-y*xv9$aw6+!-!cos#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bortoblog.pythonanywhere.com']
 
 
 # Application definition
